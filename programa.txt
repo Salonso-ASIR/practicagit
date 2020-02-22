@@ -1,0 +1,1 @@
+# Esta es la versión preliminar de mi programa para la práctica de git
