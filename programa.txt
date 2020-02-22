@@ -8,3 +8,7 @@
 
 Añado cambios sin comentar, porque me da la impresión de que git no detecta
 los cambios en el archivo que están comentados... (esta es la versión R03). 
+
+# Ahora que tengo claro que hay que hacer un <git add> antes de hacer el
+# commit , genero esta última versión (R04) , para subirla y con ello terminar
+# el punto 2 de la práctica
