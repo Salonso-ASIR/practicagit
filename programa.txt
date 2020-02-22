@@ -1,1 +1,10 @@
-# Esta es la versión preliminar de mi programa para la práctica de git
+# 0.Esta es la versión preliminar de mi programa para la práctica
+
+# 1.Tras la versión inicial incluida en git, creo una segunda versión del documento.
+#       Mantengo el texto de la primera versión y añado dos líneas nuevas
+
+# 2.Tras subir la versión R01, añado este párrafo y realizo cambios en los 
+#	párrafos de las versiones anteriores.(estoy ahora en la R02)
+
+Añado cambios sin comentar, porque me da la impresión de que git no detecta
+los cambios en el archivo que están comentados... (esta es la versión R03). 
